@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ebdffbf8dc8f4497d8c58da919ab206b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: roastink demo
+  fontNames:
+  - roastink demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2a03a01105514457995178a68306a167, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
